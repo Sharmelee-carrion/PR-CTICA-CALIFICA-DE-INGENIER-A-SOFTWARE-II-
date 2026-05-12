@@ -1,0 +1,13 @@
+# ARCHIVO: datos_ejemplo.txt
+# Proyecto: Carroña de Sharmelee
+# Propósito: Datos de prueba y ejemplo para el procesamiento del sistema
+
+=== LISTA DE DATOS ===
+Sharmelee
+Carroña
+Proyecto PHP
+Sistema de Gestión
+Desarrollo Completo
+Datos de Entrada
+Prueba de Funcionamiento
+Información General
