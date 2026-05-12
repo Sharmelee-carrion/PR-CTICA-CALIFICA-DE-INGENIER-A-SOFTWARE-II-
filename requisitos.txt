@@ -1,0 +1,29 @@
+
+---
+
+### 📄 requisitos.txt
+```txt
+=============================================
+REQUISITOS TÉCNICOS - PROYECTO: CARROÑA DE SHARMELEE
+=============================================
+
+➤ Versión de PHP:
+   - PHP 8.1 o superior (obligatorio)
+   - Extensiones necesarias: estándar de PHP (fileinfo, core, date)
+
+➤ Entorno de ejecución:
+   - Compatible con: Windows 10/11, Linux (Ubuntu/Debian), macOS
+   - Servidor web: Apache 2.4+, Nginx o servidor integrado de PHP
+   - Acceso de lectura/escritura en carpetas del proyecto
+
+➤ Herramientas de desarrollo (utilizadas):
+   - Git 2.40+ (para control de versiones)
+   - Visual Studio Code
+   - Terminal / Línea de comandos
+
+➤ Espacio en disco:
+   - Menos de 5 MB para todo el proyecto
+
+=============================================
+* No requiere base de datos ni instalación de paquetes externos *
+=============================================
