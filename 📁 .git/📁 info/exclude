@@ -1,0 +1,4 @@
+# Archivos ignorados por Git (no subidos al repositorio)
+# *.log
+# *.tmp
+# .DS_Store
